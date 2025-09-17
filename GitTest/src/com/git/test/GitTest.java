@@ -7,5 +7,6 @@ public class GitTest {
 		System.out.println("master commit");
 		System.out.println("testcommit");
 		System.out.println("test2commit");
+		System.out.println("mastermerge");
 	}
 }
