@@ -5,5 +5,6 @@ public class GitTest {
 		System.out.println("FirstCommit");
 		System.out.println("SecondCommit");
 		System.out.println("testcommit");
+		System.out.println("test2commit");
 	}
 }
