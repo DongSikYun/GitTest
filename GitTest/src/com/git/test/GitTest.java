@@ -14,5 +14,6 @@ public class GitTest {
 		System.out.println("test3commit");
 		System.out.println("test3commit");
 		System.out.println("test3commit");
+		System.out.println("test3commit");
 	}
 }
